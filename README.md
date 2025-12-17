@@ -68,4 +68,26 @@ This project isn’t just for show — it demonstrates:
 This project is feature-complete for the course requirements and structured for future expansion. It is now part of 
 my personal portfolio and showcases both my frontend and backend development skills.
 
+---
 
+## ✦ Getting Started
+
+### Prerequisites
+- [Visual Studio 2022](https://visualstudio.microsoft.com/) with ASP.NET and web development workload
+
+### Installation
+
+1. **Clone the repository**
+```bash
+   git clone https://github.com/Kait12woodard/PokemonMealPlanner.git
+   cd PokemonMealPlanner
+```
+
+2. **Open the solution**
+   - Double-click `PokemonMealPlanner.sln` to open in Visual Studio
+
+3. **Run the project**
+   - Press `F5` or click the green play button
+   - The app will open in your browser
+
+---
